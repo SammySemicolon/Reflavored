@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "reflavored:block/fir_planks_pressure_plate_up"
+    },
+    "powered=true": {
+      "model": "reflavored:block/fir_planks_pressure_plate_down"
+    }
+  }
+}

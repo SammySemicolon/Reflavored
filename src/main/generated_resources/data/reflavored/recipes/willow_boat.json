@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "reflavored:willow_planks"
+    }
+  },
+  "result": {
+    "item": "reflavored:willow_boat"
+  }
+}

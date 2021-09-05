@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:mangrove_log",
+    "reflavored:stripped_mangrove_log",
+    "reflavored:mangrove_wood",
+    "reflavored:stripped_mangrove_wood"
+  ]
+}

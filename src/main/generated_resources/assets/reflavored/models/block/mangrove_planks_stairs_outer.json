@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "reflavored:block/mangrove_planks",
+    "bottom": "reflavored:block/mangrove_planks",
+    "top": "reflavored:block/mangrove_planks"
+  }
+}

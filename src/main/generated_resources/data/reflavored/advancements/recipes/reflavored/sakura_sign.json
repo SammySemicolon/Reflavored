@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "reflavored:sakura_sign"
+    ]
+  },
+  "criteria": {
+    "has_sakura_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "reflavored:sakura_planks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "reflavored:sakura_sign"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sakura_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

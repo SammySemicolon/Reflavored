@@ -1,0 +1,6 @@
+{
+  "parent": "reflavored:block/template_sign",
+  "textures": {
+    "particle": "reflavored:block/pine_planks"
+  }
+}

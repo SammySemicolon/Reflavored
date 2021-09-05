@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "reflavored:fir_log"
+    }
+  },
+  "result": {
+    "item": "reflavored:fir_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:willow_log",
+    "reflavored:stripped_willow_log",
+    "reflavored:willow_wood",
+    "reflavored:stripped_willow_wood"
+  ]
+}

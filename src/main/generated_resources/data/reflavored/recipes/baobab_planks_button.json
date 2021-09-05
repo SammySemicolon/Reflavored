@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reflavored:baobab_planks"
+    }
+  ],
+  "result": {
+    "item": "reflavored:baobab_planks_button"
+  }
+}

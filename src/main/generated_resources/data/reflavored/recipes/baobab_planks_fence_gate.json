@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "reflavored:baobab_planks"
+    }
+  },
+  "result": {
+    "item": "reflavored:baobab_planks_fence_gate"
+  }
+}

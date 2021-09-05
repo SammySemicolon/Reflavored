@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "reflavored:palm_planks"
+    }
+  },
+  "result": {
+    "item": "reflavored:palm_planks_fence",
+    "count": 3
+  }
+}

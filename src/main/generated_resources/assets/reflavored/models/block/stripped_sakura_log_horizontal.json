@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "side": "reflavored:block/stripped_sakura_log",
+    "end": "reflavored:block/stripped_sakura_log_top"
+  }
+}

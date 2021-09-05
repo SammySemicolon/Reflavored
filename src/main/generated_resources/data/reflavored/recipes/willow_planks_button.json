@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reflavored:willow_planks"
+    }
+  ],
+  "result": {
+    "item": "reflavored:willow_planks_button"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reflavored:redwood_planks"
+    }
+  ],
+  "result": {
+    "item": "reflavored:redwood_planks_button"
+  }
+}

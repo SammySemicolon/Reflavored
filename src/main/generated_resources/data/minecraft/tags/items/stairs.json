@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:baobab_planks_stairs",
+    "reflavored:fir_planks_stairs",
+    "reflavored:pine_planks_stairs",
+    "reflavored:redwood_planks_stairs",
+    "reflavored:sakura_planks_stairs",
+    "reflavored:willow_planks_stairs",
+    "reflavored:palm_planks_stairs",
+    "reflavored:mangrove_planks_stairs"
+  ]
+}

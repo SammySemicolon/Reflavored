@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "reflavored:redwood_planks"
+    }
+  },
+  "result": {
+    "item": "reflavored:redwood_trapdoor",
+    "count": 2
+  }
+}

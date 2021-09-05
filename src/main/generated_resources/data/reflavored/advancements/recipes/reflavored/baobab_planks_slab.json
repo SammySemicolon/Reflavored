@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "reflavored:baobab_planks_slab"
+    ]
+  },
+  "criteria": {
+    "has_input": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "reflavored:baobab_planks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "reflavored:baobab_planks_slab"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_input",
+      "has_the_recipe"
+    ]
+  ]
+}

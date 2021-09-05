@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reflavored:sakura_planks"
+    }
+  ],
+  "result": {
+    "item": "reflavored:sakura_planks_button"
+  }
+}

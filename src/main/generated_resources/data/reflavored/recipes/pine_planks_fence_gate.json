@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "reflavored:pine_planks"
+    }
+  },
+  "result": {
+    "item": "reflavored:pine_planks_fence_gate"
+  }
+}

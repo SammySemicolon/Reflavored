@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "reflavored:block/palm_planks",
+    "bottom": "reflavored:block/palm_planks",
+    "top": "reflavored:block/palm_planks"
+  }
+}

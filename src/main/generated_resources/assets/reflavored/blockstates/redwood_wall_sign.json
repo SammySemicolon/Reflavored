@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,waterlogged=false": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=west,waterlogged=false": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=east,waterlogged=false": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=west,waterlogged=true": {
+      "model": "reflavored:block/redwood_wall_sign"
+    },
+    "facing=east,waterlogged=true": {
+      "model": "reflavored:block/redwood_wall_sign"
+    }
+  }
+}

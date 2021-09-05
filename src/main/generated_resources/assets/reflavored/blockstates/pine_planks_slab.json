@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "reflavored:block/pine_planks_slab_top"
+    },
+    "type=bottom": {
+      "model": "reflavored:block/pine_planks_slab"
+    },
+    "type=double": {
+      "model": "reflavored:block/pine_planks"
+    }
+  }
+}

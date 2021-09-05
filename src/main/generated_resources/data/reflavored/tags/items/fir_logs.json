@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:fir_log",
+    "reflavored:stripped_fir_log",
+    "reflavored:fir_wood",
+    "reflavored:stripped_fir_wood"
+  ]
+}

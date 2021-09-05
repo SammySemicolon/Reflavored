@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "side": "reflavored:block/fir_log",
+    "end": "reflavored:block/fir_log"
+  }
+}

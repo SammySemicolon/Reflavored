@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "bottom": "reflavored:block/mangrove_door_bottom",
+    "top": "reflavored:block/mangrove_door_top"
+  }
+}

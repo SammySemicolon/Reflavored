@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:baobab_leaves",
+    "reflavored:fir_leaves",
+    "reflavored:pine_leaves",
+    "reflavored:redwood_leaves",
+    "reflavored:sakura_leaves",
+    "reflavored:willow_leaves",
+    "reflavored:palm_leaves",
+    "reflavored:mangrove_leaves"
+  ]
+}

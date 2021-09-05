@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:baobab_planks_fence",
+    "reflavored:fir_planks_fence",
+    "reflavored:pine_planks_fence",
+    "reflavored:redwood_planks_fence",
+    "reflavored:sakura_planks_fence",
+    "reflavored:willow_planks_fence",
+    "reflavored:palm_planks_fence",
+    "reflavored:mangrove_planks_fence"
+  ]
+}

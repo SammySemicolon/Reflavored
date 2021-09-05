@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:baobab_planks_pressure_plate",
+    "reflavored:fir_planks_pressure_plate",
+    "reflavored:pine_planks_pressure_plate",
+    "reflavored:redwood_planks_pressure_plate",
+    "reflavored:sakura_planks_pressure_plate",
+    "reflavored:willow_planks_pressure_plate",
+    "reflavored:palm_planks_pressure_plate",
+    "reflavored:mangrove_planks_pressure_plate"
+  ]
+}

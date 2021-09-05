@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "reflavored:baobab_trapdoor",
+    "reflavored:fir_trapdoor",
+    "reflavored:pine_trapdoor",
+    "reflavored:redwood_trapdoor",
+    "reflavored:sakura_trapdoor",
+    "reflavored:willow_trapdoor",
+    "reflavored:palm_trapdoor",
+    "reflavored:mangrove_trapdoor"
+  ]
+}
